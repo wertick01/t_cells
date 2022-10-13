@@ -44,9 +44,15 @@ var groups = []string{
 }
 
 func main() {
+	pwd, err := os.Getwd()
+	if err != nil {
+		fmt.Println(err)
+		os.Exit(1)
+	}
+
 	var mass []Data
 
-	jsonFile, err := os.Open("/home/mrred/Рабочий стол/Работа/т-клетки/data.json")
+	jsonFile, err := os.Open(pwd + "/data.json")
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -55,12 +61,12 @@ func main() {
 		log.Fatal(err)
 	}
 
-	if err = Sorter(mass, groups); err != nil {
+	if err = Sorter(pwd, mass, groups); err != nil {
 		log.Fatal(err)
 	}
 }
 
-func Sorter(data []Data, groups []string) error {
+func Sorter(pwd string, data []Data, groups []string) error {
 	for _, group := range groups {
 		mass := []Data{}
 		for _, val := range data {
@@ -72,7 +78,7 @@ func Sorter(data []Data, groups []string) error {
 				)
 			}
 		}
-		f, _ := os.Create("/home/mrred/Рабочий стол/Работа/т-клетки/Groups/" + group + ".json")
+		f, _ := os.Create(pwd + "/Groups/" + group + ".json")
 		defer f.Close()
 
 		as_json, err := json.Marshal(mass)
@@ -104,6 +110,17 @@ func Splitter(data []Data) []Substrings {
 	return mass
 }
 
+func Writer(path string, res []Substrings) {
+	f, _ := os.Create(path)
+	defer f.Close()
+
+	as_json, err := json.Marshal(res)
+	if err != nil {
+		log.Fatal(err)
+	}
+	f.Write(as_json)
+}
+
 func Alligner(data []Data, substrings []Substrings) string {
 	aa := 0
 	bb := 0
@@ -112,7 +129,7 @@ func Alligner(data []Data, substrings []Substrings) string {
 	var ct int
 	// var result []AllignerSeq
 	var res AllignerSeq
-	f, _ := os.Create("/home/mrred/Рабочий стол/Работа/т-клетки/Statistics.json")
+	f, _ := os.Create("/home/mrred/Рабочий стол/Работа/t_cells/Statistics.json")
 	defer f.Close()
 	// for i := 0; i < len(data)/10; i++ {
 	// 	wg.Add(10)
@@ -179,15 +196,4 @@ func AllignHelper(value Substrings, data []Data, ct int, substring string) Allig
 	// }
 	// }
 	return *stat
-}
-
-func Writer(path string, res []Substrings) {
-	f, _ := os.Create(path)
-	defer f.Close()
-
-	as_json, err := json.Marshal(res)
-	if err != nil {
-		log.Fatal(err)
-	}
-	f.Write(as_json)
 }
