@@ -5,7 +5,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/fs"
-	"io/ioutil"
 	"log"
 	"os"
 	"strings"
@@ -36,50 +35,62 @@ func main() {
 		os.Exit(1)
 	}
 
-	var primers = []models.Primers{}
-	var keyPrimers = []models.KeyPrimers{}
+	data := []models.A2A{}
 
-	var mass = []models.KeySequence{}
-	var data = []models.Data{}
-
-	var prefinal = []models.PreFinal{}
-
-	groupDir, err := ioutil.ReadDir(pwd + "/Groups/")
+	jsonFile, err := os.Open(pwd + "/Results/all_to_all_50+.json")
 	if err != nil {
 		log.Fatal(err)
 	}
-	mass = GroupSorter(groupDir, mass, data, pwd+"/Groups/")
-
-	primerDir, err := ioutil.ReadDir(pwd + "/Primers/")
-	if err != nil {
+	jsonParser := json.NewDecoder(jsonFile)
+	if err = jsonParser.Decode(&data); err != nil {
 		log.Fatal(err)
 	}
-	keyPrimers = PrimerSorter(primerDir, keyPrimers, primers, pwd+"/Primers/")
+	fmt.Println(data[0])
 
-	for _, val := range keyPrimers {
-		for _, seq := range mass {
-			// if val.Key == seq.Key {
-			for _, primer := range val.Primers {
-				for _, sequence := range seq.Sequences {
-					if strings.Contains(strings.ToUpper(sequence.Value), primer.Primer) {
-						sequence.Value = strings.ToUpper(sequence.Value)
-						prefinal = append(prefinal, models.PreFinal{Type: seq.Key, Primer: primer, Sequence: sequence})
-					}
-				}
-				// }
-			}
-		}
-	}
-	fmt.Println(len(prefinal))
+	// var primers = []models.Primers{}
+	// var keyPrimers = []models.KeyPrimers{}
 
-	f, _ := os.Create(pwd + "/Results/all_to_all.json")
-	defer f.Close()
+	// var mass = []models.KeySequence{}
+	// var data = []models.Data{}
 
-	as_json, err := json.Marshal(prefinal)
-	if err != nil {
-		log.Fatal(err)
-	}
-	f.Write(as_json)
+	// var prefinal = []models.PreFinal{}
+
+	// groupDir, err := ioutil.ReadDir(pwd + "/Groups/")
+	// if err != nil {
+	// 	log.Fatal(err)
+	// }
+	// mass = GroupSorter(groupDir, mass, data, pwd+"/Groups/")
+
+	// primerDir, err := ioutil.ReadDir(pwd + "/Primers/")
+	// if err != nil {
+	// 	log.Fatal(err)
+	// }
+	// keyPrimers = PrimerSorter(primerDir, keyPrimers, primers, pwd+"/Primers/")
+
+	// for _, val := range keyPrimers {
+	// 	for _, seq := range mass {
+	// 		// if val.Key == seq.Key {
+	// 		for _, primer := range val.Primers {
+	// 			for _, sequence := range seq.Sequences {
+	// 				if strings.Contains(strings.ToUpper(sequence.Value), primer.Primer) {
+	// 					sequence.Value = strings.ToUpper(sequence.Value)
+	// 					prefinal = append(prefinal, models.PreFinal{Type: seq.Key, Primer: primer, Sequence: sequence})
+	// 				}
+	// 			}
+	// 			// }
+	// 		}
+	// 	}
+	// }
+	// fmt.Println(len(prefinal))
+
+	// f, _ := os.Create(pwd + "/Results/all_to_all.json")
+	// defer f.Close()
+
+	// as_json, err := json.Marshal(prefinal)
+	// if err != nil {
+	// 	log.Fatal(err)
+	// }
+	// f.Write(as_json)
 
 	// var mass []Data
 

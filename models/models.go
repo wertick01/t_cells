@@ -37,3 +37,13 @@ type PreFinal struct {
 	Primer   Primers `json:"primer"`
 	Sequence Data    `json:"sequence"`
 }
+
+type A2A struct {
+	PrimerGroup   string `json:"primer_group"`
+	PrimerKey     string `json:"primer_key"`
+	Primer        string `json:"primer"`
+	SequenceGroup string `json:"sequence_group"`
+	SequenceKey   string `json:"sequence_key"`
+	Sequence      string `json:"sequence"`
+	Ratio         int    `json:"ratio"`
+}
