@@ -46,6 +46,8 @@ func main() {
 		log.Fatal(err)
 	}
 	fmt.Println(data[0])
+	fmt.Println()
+	fmt.Println(MaxSubstring(data[0].Sequence, Crusher(data[0].Primer)))
 
 	// var primers = []models.Primers{}
 	// var keyPrimers = []models.KeyPrimers{}
@@ -106,6 +108,40 @@ func main() {
 	// if err = Sorter(pwd, mass, groups); err != nil {
 	// 	log.Fatal(err)
 	// }
+}
+
+func MaxSubstring(sequence string, primer_combinations []models.Crusher) models.SBS {
+	result := models.SBS{}
+	rs := []models.PandP{}
+	for i := len(primer_combinations) - 1; i > 0; i-- {
+		mass := models.PandP{}
+		if primer_combinations[i].Length > 4 {
+			for _, primer := range primer_combinations[i].Massive {
+				if strings.Contains(sequence, primer) {
+					mass.Position = strings.Index(sequence, primer)
+					mass.Primer = primer
+					rs = append(rs, mass)
+				}
+			}
+		}
+	}
+	result.Sequence = sequence
+	result.Primers = rs
+	return result
+}
+
+func Crusher(seq string) []models.Crusher {
+	resmass := []models.Crusher{}
+	a := 0
+	for i := 0; i < len(seq); i++ {
+		a++
+		mass := []string{}
+		for j := 0; j < len(seq)-a+1; j++ {
+			mass = append(mass, seq[j:j+a])
+		}
+		resmass = append(resmass, models.Crusher{Length: a, Massive: mass})
+	}
+	return resmass
 }
 
 func GroupSorter(groupDir []fs.FileInfo, mass []models.KeySequence, data []models.Data, path string) []models.KeySequence {

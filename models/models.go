@@ -47,3 +47,18 @@ type A2A struct {
 	Sequence      string `json:"sequence"`
 	Ratio         int    `json:"ratio"`
 }
+
+type Crusher struct {
+	Length  int
+	Massive []string
+}
+
+type SBS struct {
+	Sequence string
+	Primers  []PandP
+}
+
+type PandP struct {
+	Primer   string
+	Position int
+}
