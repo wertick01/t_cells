@@ -1,0 +1,5743 @@
+<table>
+ <tr>
+  <th colspan="4" rowspan="2">
+   IMGT gene name
+  </th>
+  <th colspan="4" rowspan="2">
+   IMGT allele name
+  </th>
+  <th colspan="4" rowspan="2">
+   Fct
+  </th>
+  <th colspan="4" rowspan="2">
+   Chromosomal localization
+  </th>
+  <th colspan="8" rowspan="2">
+   T
+  </th>
+  <th colspan="4" rowspan="2">
+   Pr
+  </th>
+  <th colspan="4" rowspan="2">
+   Positions in the locus
+  </th>
+  <th colspan="20">
+   IMGT/LIGM-DB reference sequences
+  </th>
+  <th colspan="12">
+   IMGT/LIGM-DB sequences from the literature
+  </th>
+ </tr>
+ <tr>
+  <th colspan="4">
+   Clone names
+  </th>
+  <th colspan="4">
+   Exons
+  </th>
+  <th colspan="4">
+   Accession numbers
+  </th>
+  <th colspan="4">
+   Positions in the sequence
+  </th>
+  <th colspan="4">
+   Secondary accession numbers
+  </th>
+  <th colspan="4">
+   Clone names
+  </th>
+  <th colspan="4">
+   Accession numbers
+  </th>
+  <th colspan="4">
+   Positions in the sequence
+  </th>
+ </tr>
+ <tr>
+  <td class="_none" rowspan="71">
+  </td>
+  <td class="_none" rowspan="71">
+  </td>
+  <td class="_none" rowspan="71">
+  </td>
+  <td class="_none" rowspan="71">
+  </td>
+  <td class="gene_note" rowspan="37">
+   <a href="/genedb/GENElect?query=2+TRGC1&amp;species=Homo+sapiens">
+    TRGC1
+   </a>
+  </td>
+  <td class="_note2" rowspan="37">
+  </td>
+  <td class="_note2" rowspan="37">
+  </td>
+  <td class="_note" rowspan="37">
+  </td>
+  <td class="allele_note" rowspan="19">
+   <a href="/IMGTrepertoire/Proteins/alleles/list_alleles.php?species=Homo sapiens&amp;group=TRGC">
+    TRGC1*01
+   </a>
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+   <a href="#notes">
+    (1)
+   </a>
+  </td>
+  <td class="_note" rowspan="19">
+  </td>
+  <td class="col_note" rowspan="19">
+   F
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note" rowspan="19">
+  </td>
+  <td class="col_note" rowspan="19">
+   7p14
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note" rowspan="19">
+  </td>
+  <td class="col_note" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note" rowspan="19">
+  </td>
+  <td class="col_note" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note" rowspan="19">
+  </td>
+  <td class="_none" rowspan="19">
+  </td>
+  <td class="_none" rowspan="19">
+  </td>
+  <td class="_none" rowspan="19">
+  </td>
+  <td class="_none" rowspan="19">
+  </td>
+  <td class="col_note" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note" rowspan="19">
+  </td>
+  <td class="col_note" rowspan="19">
+   lambda-D19 (D-PLL)
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note2" rowspan="19">
+  </td>
+  <td class="_note" rowspan="19">
+  </td>
+  <td class="col_note" rowspan="7">
+   EX1
+  </td>
+  <td class="_note2" rowspan="7">
+  </td>
+  <td class="_note2" rowspan="7">
+  </td>
+  <td class="_note" rowspan="7">
+  </td>
+  <td class="col_note" rowspan="7">
+   <a href="/ligmdb/view?id=M14996">
+    M14996
+   </a>
+  </td>
+  <td class="_note2" rowspan="7">
+   <a href="#refs">
+    [3]
+   </a>
+  </td>
+  <td class="_note2" rowspan="7">
+  </td>
+  <td class="_note" rowspan="7">
+  </td>
+  <td class="col_note" rowspan="7">
+   41..370
+  </td>
+  <td class="_note2" rowspan="7">
+  </td>
+  <td class="_note2" rowspan="7">
+  </td>
+  <td class="_note" rowspan="7">
+  </td>
+  <td class="col_note" rowspan="7">
+  </td>
+  <td class="_note2" rowspan="7">
+  </td>
+  <td class="_note2" rowspan="7">
+  </td>
+  <td class="_note" rowspan="7">
+  </td>
+  <td class="_none" rowspan="7">
+  </td>
+  <td class="_none" rowspan="7">
+  </td>
+  <td class="_none" rowspan="7">
+  </td>
+  <td class="_none" rowspan="7">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=X02758">
+    X02758
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [1]
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#notes">
+    (2)
+   </a>
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   23..&gt;178
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   T-gamma-5
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M17325">
+    M17325
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [4]
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#notes">
+    (3)
+   </a>
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   &lt;1..309
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=AF159056">
+    AF159056
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [6]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   108237..108566
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC072387">
+    BC072387
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   378..707
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC105589">
+    BC105589
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c(st)
+   </a>
+  </td>
+  <td class="col_note">
+   279..608
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M16768">
+    M16768
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [8]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   564..893
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   CM000669.2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=IMGT000011">
+    IMGT000011
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   122378..122707
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note" rowspan="6">
+   EX2
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="col_note" rowspan="6">
+   <a href="/ligmdb/view?id=M14997">
+    M14997
+   </a>
+  </td>
+  <td class="_note2" rowspan="6">
+   <a href="#refs">
+    [3]
+   </a>
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="col_note" rowspan="6">
+   25..72
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="col_note" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="_none" rowspan="6">
+  </td>
+  <td class="_none" rowspan="6">
+  </td>
+  <td class="_none" rowspan="6">
+  </td>
+  <td class="_none" rowspan="6">
+  </td>
+  <td class="col_note">
+   T-gamma-5
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M17325">
+    M17325
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [4]
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#notes">
+    (3)
+   </a>
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   310..357
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=AF159056">
+    AF159056
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [6]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   111697..111744
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC072387">
+    BC072387
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   708..755
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC105589">
+    BC105589
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c(st)
+   </a>
+  </td>
+  <td class="col_note">
+   609..656
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M16768">
+    M16768
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [8]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   894..941
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   CM000669.2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=IMGT000011">
+    IMGT000011
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   125838..125885
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note" rowspan="6">
+   EX3
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="col_note" rowspan="6">
+   <a href="/ligmdb/view?id=M14998">
+    M14998
+   </a>
+  </td>
+  <td class="_note2" rowspan="6">
+   <a href="#refs">
+    [3]
+   </a>
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="col_note" rowspan="6">
+   174..313
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="col_note" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="_none" rowspan="6">
+  </td>
+  <td class="_none" rowspan="6">
+  </td>
+  <td class="_none" rowspan="6">
+  </td>
+  <td class="_none" rowspan="6">
+  </td>
+  <td class="col_note">
+   T-gamma-5
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M17325">
+    M17325
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [4]
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#notes">
+    (3)
+   </a>
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   358..498
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=AF159056">
+    AF159056
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [6]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   113685..113824
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC072387">
+    BC072387
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   756..896
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC105589">
+    BC105589
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c(st)
+   </a>
+  </td>
+  <td class="col_note">
+   657..797
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M16768">
+    M16768
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [8]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   942..1082
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   CM000669.2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=IMGT000011">
+    IMGT000011
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   127826..127965
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="allele_note" rowspan="3">
+   <a href="/IMGTrepertoire/Proteins/alleles/list_alleles.php?species=Homo sapiens&amp;group=TRGC">
+    TRGC1*02
+   </a>
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+   <a href="#notes">
+    (1)
+   </a>
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+   F
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+   7p14
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note">
+   lambda-R-gamma (Raji)
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   EX1
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M14999">
+    M14999
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [3]
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#notes">
+    (2)
+   </a>
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   1..&gt;300
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=X02757">
+    X02757
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [1]
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#notes">
+    (2)
+   </a>
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   23..&gt;178
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note" rowspan="2">
+  </td>
+  <td class="_note2" rowspan="2">
+  </td>
+  <td class="_note2" rowspan="2">
+  </td>
+  <td class="_note" rowspan="2">
+  </td>
+  <td class="col_note">
+   EX2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX3
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="allele_note" rowspan="9">
+   <a href="/IMGTrepertoire/Proteins/alleles/list_alleles.php?species=Homo sapiens&amp;group=TRGC">
+    TRGC1*03
+   </a>
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+   <a href="#notes">
+    (1)
+   </a>
+  </td>
+  <td class="_note" rowspan="9">
+  </td>
+  <td class="col_note" rowspan="9">
+   (F)
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note" rowspan="9">
+  </td>
+  <td class="col_note" rowspan="9">
+   7p14
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note" rowspan="9">
+  </td>
+  <td class="col_note" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note" rowspan="9">
+  </td>
+  <td class="col_note" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note" rowspan="9">
+  </td>
+  <td class="_none" rowspan="9">
+  </td>
+  <td class="_none" rowspan="9">
+  </td>
+  <td class="_none" rowspan="9">
+  </td>
+  <td class="_none" rowspan="9">
+  </td>
+  <td class="col_note" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note" rowspan="9">
+  </td>
+  <td class="col_note" rowspan="9">
+   TCRGV9, V2
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note2" rowspan="9">
+  </td>
+  <td class="_note" rowspan="9">
+  </td>
+  <td class="col_note" rowspan="3">
+   EX1
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+   <a href="/ligmdb/view?id=BC072396">
+    BC072396
+   </a>
+  </td>
+  <td class="_note2" rowspan="3">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note" rowspan="3">
+   804..1133
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC030554">
+    BC030554
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   745..1074
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   HGP02
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M27334">
+    M27334
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [11]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   1..330
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=X72500">
+    X72500
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [13]
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#notes">
+    (6)
+   </a>
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note" rowspan="3">
+   EX2
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+   <a href="/ligmdb/view?id=BC072396">
+    BC072396
+   </a>
+  </td>
+  <td class="_note2" rowspan="3">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note" rowspan="3">
+   1134..1181
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC030554">
+    BC030554
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   1075..1122
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   HGP02
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M27334">
+    M27334
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [11]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   331..378
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=X72500">
+    X72500
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [13]
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#notes">
+    (6)
+   </a>
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note" rowspan="3">
+   EX3
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+   <a href="/ligmdb/view?id=BC072396">
+    BC072396
+   </a>
+  </td>
+  <td class="_note2" rowspan="3">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note" rowspan="3">
+   1182..1322
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC030554">
+    BC030554
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   1123..1263
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   HGP02
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M27334">
+    M27334
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [11]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   379..519
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=X72500">
+    X72500
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [13]
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#notes">
+    (6)
+   </a>
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="allele_note" rowspan="3">
+   <a href="/IMGTrepertoire/Proteins/alleles/list_alleles.php?species=Homo sapiens&amp;group=TRGC">
+    TRGC1*04
+   </a>
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+   <a href="#notes">
+    (1)
+   </a>
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+   (F)
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+   7p14
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note">
+   EX1
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=AF151103">
+    AF151103
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [9]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   61..390
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=AF151103">
+    AF151103
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [9]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   391..438
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX3
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=AF151103">
+    AF151103
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [9]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   439..579
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="allele_note" rowspan="3">
+   <a href="/IMGTrepertoire/Proteins/alleles/list_alleles.php?species=Homo sapiens&amp;group=TRGC">
+    TRGC1*05
+   </a>
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+   <a href="#notes">
+    (1)
+   </a>
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+   (F)
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+   7p14
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="_none" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note" rowspan="3">
+   TCRGV9, V2
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note">
+   EX1
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC062761">
+    BC062761
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   56..385
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC062761">
+    BC062761
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   386..433
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX3
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC062761">
+    BC062761
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   434..574
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="gene_note" rowspan="34">
+   <a href="/genedb/GENElect?query=2+TRGC2&amp;species=Homo+sapiens">
+    TRGC2
+   </a>
+  </td>
+  <td class="_note2" rowspan="34">
+  </td>
+  <td class="_note2" rowspan="34">
+   <a href="#notes">
+    (4)
+   </a>
+  </td>
+  <td class="_note" rowspan="34">
+  </td>
+  <td class="allele_note" rowspan="4">
+   <a href="/IMGTrepertoire/Proteins/alleles/list_alleles.php?species=Homo sapiens&amp;group=TRGC">
+    TRGC2*01(2x)
+   </a>
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+   <a href="#notes">
+    (5)
+   </a>
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   F
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   7p14
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note">
+   lambda-D7 (D-PLL)
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   EX1
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M15002">
+    M15002
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [3]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   1..330
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+   pTgamma-1(HPB-MLT)
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M13231">
+    M13231
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [2]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   410..739
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note" rowspan="3">
+   pTgamma-1 (HPB-MLT)
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note">
+   EX2T
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M13231">
+    M13231
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [2]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   740..787
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M13231">
+    M13231
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [2]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   788..835
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX3
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M13231">
+    M13231
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [2]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   836..976
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="allele_note" rowspan="4">
+   <a href="/IMGTrepertoire/Proteins/alleles/list_alleles.php?species=Homo sapiens&amp;group=TRGC">
+    TRGC2*02(2x)
+   </a>
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+   <a href="#notes">
+    (5)
+   </a>
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   F
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   7p14
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note">
+   lambdaD11 (D-PLL)
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   EX1
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M15001">
+    M15001
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [3]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   1..330
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC017861">
+    BC017861
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   466..795
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note" rowspan="3">
+   lambdaS9 (SUPT1)
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note">
+   EX2R
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M15004">
+    M15004
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [3]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   6..53
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC017861">
+    BC017861
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   796..843
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M15005">
+    M15005
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [3]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   6..53
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC017861">
+    BC017861
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   844..891
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX3
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M15007">
+    M15007
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [3]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   2..141
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=BC017861">
+    BC017861
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [7]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   892..1032
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="allele_note" rowspan="4">
+   <a href="/IMGTrepertoire/Proteins/alleles/list_alleles.php?species=Homo sapiens&amp;group=TRGC">
+    TRGC2*03(2x)
+   </a>
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   (F)
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   7p14
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   F-gamma-7 (Fro 2.2)
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note">
+   EX1
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M17324">
+    M17324
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [4]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   1..329
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2R
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M17324">
+    M17324
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [4]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   330..377
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M17324">
+    M17324
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [4]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   378..425
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX3
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M17324">
+    M17324
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [4]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   426..566
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="allele_note" rowspan="4">
+   <a href="/IMGTrepertoire/Proteins/alleles/list_alleles.php?species=Homo sapiens&amp;group=TRGC">
+    TRGC2*04(2x)
+   </a>
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   F
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   7p14
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note">
+   EX1
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=AF159056">
+    AF159056
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [6]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   108237..108566
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2R
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=AF159056">
+    AF159056
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [6]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=AF159056">
+    AF159056
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [6]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   111697..111744
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX3
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=AF159056">
+    AF159056
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [6]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   113685..113824
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="allele_note" rowspan="6">
+   <a href="/IMGTrepertoire/Proteins/alleles/list_alleles.php?species=Homo sapiens&amp;group=TRGC">
+    TRGC2*05(3x)
+   </a>
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="col_note" rowspan="6">
+   (F)
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="col_note" rowspan="6">
+   7p14
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="col_note" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="col_note" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="_none" rowspan="6">
+  </td>
+  <td class="_none" rowspan="6">
+  </td>
+  <td class="_none" rowspan="6">
+  </td>
+  <td class="_none" rowspan="6">
+  </td>
+  <td class="col_note" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note2" rowspan="6">
+  </td>
+  <td class="_note" rowspan="6">
+  </td>
+  <td class="col_note">
+   p-gamma-1 (PEER)
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   EX1
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M17323">
+    M17323
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [4]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   1..329
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M30894">
+    M30894
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [12]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note" rowspan="2">
+   lambdaR12 (RPMI 8402)
+  </td>
+  <td class="_note2" rowspan="2">
+  </td>
+  <td class="_note2" rowspan="2">
+  </td>
+  <td class="_note" rowspan="2">
+  </td>
+  <td class="col_note" rowspan="2">
+   EX2T
+  </td>
+  <td class="_note2" rowspan="2">
+  </td>
+  <td class="_note2" rowspan="2">
+  </td>
+  <td class="_note" rowspan="2">
+  </td>
+  <td class="col_note" rowspan="2">
+   <a href="/ligmdb/view?id=M25318">
+    M25318
+   </a>
+  </td>
+  <td class="_note2" rowspan="2">
+   <a href="#refs">
+    [5]
+   </a>
+  </td>
+  <td class="_note2" rowspan="2">
+  </td>
+  <td class="_note" rowspan="2">
+  </td>
+  <td class="col_note" rowspan="2">
+   7..54
+  </td>
+  <td class="_note2" rowspan="2">
+  </td>
+  <td class="_note2" rowspan="2">
+  </td>
+  <td class="_note" rowspan="2">
+  </td>
+  <td class="col_note" rowspan="2">
+  </td>
+  <td class="_note2" rowspan="2">
+  </td>
+  <td class="_note2" rowspan="2">
+  </td>
+  <td class="_note" rowspan="2">
+  </td>
+  <td class="_none" rowspan="2">
+  </td>
+  <td class="_none" rowspan="2">
+  </td>
+  <td class="_none" rowspan="2">
+  </td>
+  <td class="_none" rowspan="2">
+  </td>
+  <td class="col_note">
+   p-gamma-1(PEER)
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M17323">
+    M17323
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [4]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   330..377
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M30894">
+    M30894
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [12]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note" rowspan="3">
+   p-gamma-1 (PEER)
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note2" rowspan="3">
+  </td>
+  <td class="_note" rowspan="3">
+  </td>
+  <td class="col_note">
+   EX2R
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M17323">
+    M17323
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [4]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   378..425
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M30894">
+    M30894
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [12]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M17323">
+    M17323
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [4]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   426..473
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M30894">
+    M30894
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [12]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX3
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M17323">
+    M17323
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [4]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   474..614
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M30894">
+    M30894
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [12]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="allele_note" rowspan="4">
+   <a href="/IMGTrepertoire/Proteins/alleles/list_alleles.php?species=Homo sapiens&amp;group=TRGC">
+    TRGC2*06(2x)
+   </a>
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   (F)
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   7p14
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   K (MOLT13 leukemia)
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note">
+   EX1
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=Y00790">
+    Y00790
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [10]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   439..768
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+   CM000669.2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=IMGT000011">
+    IMGT000011
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   138484..138813
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2R
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=Y00790">
+    Y00790
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [10]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   769..816
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+   CM000669.2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=IMGT000011">
+    IMGT000011
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   142826..142873
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=Y00790">
+    Y00790
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [10]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   817..864
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+   CM000669.2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=IMGT000011">
+    IMGT000011
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   145581..145628
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX3
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=Y00790">
+    Y00790
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [10]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   865..1005
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+   CM000669.2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=IMGT000011">
+    IMGT000011
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   147890..148029
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="allele_note" rowspan="4">
+   <a href="/IMGTrepertoire/Proteins/alleles/list_alleles.php?species=Homo sapiens&amp;group=TRGC">
+    TRGC2*07(2x)
+   </a>
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   (F)
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   7p14
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   HGP08
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note">
+   EX1
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M27331">
+    M27331
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [11]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   1..330
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2R
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M27331">
+    M27331
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [11]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   331..378
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M27331">
+    M27331
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [11]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   379..426
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX3
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M27331">
+    M27331
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [11]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   427..567
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="allele_note" rowspan="4">
+   <a href="/IMGTrepertoire/Proteins/alleles/list_alleles.php?species=Homo sapiens&amp;group=TRGC">
+    TRGC2*08(2x)
+   </a>
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   (F)
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   7p14
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="_none" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note" rowspan="4">
+   HGP06
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note2" rowspan="4">
+  </td>
+  <td class="_note" rowspan="4">
+  </td>
+  <td class="col_note">
+   EX1
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M27332">
+    M27332
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [11]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   1..330
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2R
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M27332">
+    M27332
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [11]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   331..378
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX2
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M27332">
+    M27332
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [11]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   379..426
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+ <tr>
+  <td class="col_note">
+   EX3
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+   <a href="/ligmdb/view?id=M27332">
+    M27332
+   </a>
+  </td>
+  <td class="_note2">
+   <a href="#refs">
+    [11]
+   </a>
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+   <a href="#bottom">
+    c
+   </a>
+  </td>
+  <td class="col_note">
+   427..564
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="_none">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+  <td class="col_note">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note2">
+  </td>
+  <td class="_note">
+  </td>
+ </tr>
+</table>
